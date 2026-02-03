@@ -4,10 +4,10 @@ I'm a passionate **Frontend Developer** focused on building clean, responsive, a
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: HTML5, CSS3, JavaScript (ES6+)
+- 💻 Languages: HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
 - 🧩 Tools: Git, GitHub, VSCode, Chrome DevTools
 - 🎨 UI: Responsive Web Design, Flexbox, Grid, Sass
-- 🔧 Currently Learning: React.js, Tailwind CSS
+- 🔧 Currently Learning: Next.js, TypeScript
 
 ## 🚀 Projects
 
