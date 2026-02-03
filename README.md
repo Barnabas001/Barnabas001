@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Barnabas Olayinka Affonshike!
 
-I'm a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly interfaces using **HTML**, **CSS**, and **JavaScript**.
+I'm a passionate **Frontend Developer** focused on building clean, responsive, and user-friendly interfaces using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, **TypeScript** and **React Js**.
 
 ## 🛠️ Tech Stack
 
